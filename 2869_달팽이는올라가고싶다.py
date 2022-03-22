@@ -1,8 +1,7 @@
-a,b,v = map(int,input().split())
-k = 0	#올라가는 데 걸리는 일수
-d = 0	#올라간 높이
-while 1:
-    k+=1
-    if a*k-b*(k-1)>=v:
-        break
-print(k)
+import math
+
+a, b, v = map(int, input().split())
+# a= 올라가는 길이, b= 떨어지는길이, v= 나무높이
+
+day = math.ceil((v-a)/(a-b)) + 1
+print(day)
