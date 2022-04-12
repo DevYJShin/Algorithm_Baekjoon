@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f5174ab-9529-434d-95b7-f44c7fc26e11" name="Changes" comment="first commit!">
-      <change afterPath="$PROJECT_DIR$/1085_직사각형에서탈출.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9020_골드바흐의추측.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640441163031</updated>
-    </task>
-    <task id="LOCAL-00033" summary="first commit!">
-      <created>1645624378565</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1645624378565</updated>
     </task>
     <task id="LOCAL-00034" summary="first commit!">
       <created>1645712502992</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649687894234</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="first commit!">
+      <created>1649688480982</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1649688480983</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
