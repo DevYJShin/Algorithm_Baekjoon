@@ -11,4 +11,4 @@ h = time // 60 * 60 # 1 hour -> 60m * 60s
 m = time // 60 % 60 
 s = time % 60
 
-print("%02d:%02d:%02d" % (h, m, s))
+print("%02d:%02d:%02d" % (h, m, s)) 
