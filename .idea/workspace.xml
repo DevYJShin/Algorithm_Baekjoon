@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f5174ab-9529-434d-95b7-f44c7fc26e11" name="Changes" comment="first commit!">
-      <change afterPath="$PROJECT_DIR$/7568_덩치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18108_1998년생인 내가 태국에서는 2541년생.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640441163031</updated>
-    </task>
-    <task id="LOCAL-00055" summary="first commit!">
-      <created>1647349845808</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1647349845809</updated>
     </task>
     <task id="LOCAL-00056" summary="first commit!">
       <created>1647433617611</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651555361879</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="first commit!">
+      <created>1651642688709</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1651642688710</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
