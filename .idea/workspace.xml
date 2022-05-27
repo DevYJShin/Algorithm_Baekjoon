@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f5174ab-9529-434d-95b7-f44c7fc26e11" name="Changes" comment="first commit!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9663_NQueen.py" beforeDir="false" afterPath="$PROJECT_DIR$/9663_NQueen.py" afterDir="false" />
+    <list default="true" id="5f5174ab-9529-434d-95b7-f44c7fc26e11" name="Changes" comment="second commit!">
+      <change afterPath="$PROJECT_DIR$/1676_팩토리얼0의개수.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640441163031</updated>
-    </task>
-    <task id="LOCAL-00074" summary="first commit!">
-      <created>1648961374202</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1648961374218</updated>
     </task>
     <task id="LOCAL-00075" summary="first commit!">
       <created>1649071172371</created>
@@ -410,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653564749206</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="second commit!">
+      <created>1653656169946</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1653656169947</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,8 +424,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="second commit!" />
     <MESSAGE value="first commit!" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit!" />
+    <MESSAGE value="second commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit!" />
   </component>
 </project>
